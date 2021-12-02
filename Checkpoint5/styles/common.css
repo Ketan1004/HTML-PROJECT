@@ -1,0 +1,18 @@
+#image{
+    height: 60px;
+    width: 60px;
+}
+html{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    background-color:#e0e0e0;
+}
+header,footer{
+  background-color: rosybrown;
+}
