@@ -1,0 +1,23 @@
+#img1,#img2,#img3{
+ float: left;
+ margin-left: 4%;
+ margin: 2%;
+ background-color: rgb(132,136,139);
+ width: 40%;
+}
+#lists{
+    width: 29%;
+    margin: 0 auto;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    color: black;
+    font-weight: bold;
+    margin: 20px;
+}
+#Map-view{
+    display: none;
+}
