@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background-color: #e0e0e0;
+}
+.image-container{
+    display: inline-flex;
+    flex-direction: row;
+    margin: 2%;
+    margin-left: 4%;
+    background-color: lightgrey;
+    width: 40%;
+}
+#lists{
+    width: 27.5%;
+    margin: 15px auto;
+}
+#ListView{
+    margin: 2%;
+    
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    color: black;
+    font-weight: bold;
+    margin: 20px;
+}
+.hotel-details{
+    display: block;
+    margin-left: 2.5%;
+}
+.image-container:hover{
+    background-color: rosybrown;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
